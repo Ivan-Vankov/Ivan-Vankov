@@ -1,5 +1,7 @@
 ### Hello there ❤️
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivan-Vankov&count_private=true&show_icons=true" />
-</a>
+[![Vaflov's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ivan-Vankov&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Vaflov's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ivan-Vankov&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Vankov&exclude_repo=Image-Compression,Game-Engine-Architecture,WhatCatAreYOU&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Vankov&exclude_repo=Image-Compression,Game-Engine-Architecture,WhatCatAreYOU&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only#gh-light-mode-only)
